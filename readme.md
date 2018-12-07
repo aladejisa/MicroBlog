@@ -1,0 +1,1 @@
+未使用redis，直接scrapy爬虫与mysql做交互简化过程
